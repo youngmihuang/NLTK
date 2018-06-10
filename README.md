@@ -1,2 +1,2 @@
 # NLTK
-- Update: 2018/05
+- Update: 2018/06
